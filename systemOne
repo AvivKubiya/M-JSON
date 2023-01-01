@@ -1,0 +1,64 @@
+[
+    {
+    "title": "מסד בטיחות",
+    "items": [
+      {
+        "title":"מערכת מחוברת",
+        "type": "led",
+        "ledType": "green"
+      },
+      {
+        "title": "מערכת במצב בטוח",
+        "type": "led",
+        "ledType": "green"
+      },
+      {
+        "title": "כבוי/דלוק",
+        "type": "action",
+        "actionState": true
+      },
+      {
+        "title": "בדיקות בטיחות",
+        "type": "progress",
+        "progressType": "green",
+        "percentage": 40
+      }
+    ]
+  },
+  {
+    "title": "מסד קרקעי",
+    "items": [
+      {
+        "title":"מערכת מחוברת",
+        "type": "led",
+        "ledType": "green"
+      },
+      {
+        "title": "תקשורת",
+        "type": "led",
+        "ledType": "red"
+      },
+      {
+        "title": "על הקרקע",
+        "type": "led",
+        "ledType": "red"
+      },
+      {
+        "title": "במהלך טיסה",
+        "type": "led",
+        "ledType": "yellow"
+      },
+      {
+        "title": "ניטור",
+        "type": "action",
+        "actionState": false
+      },
+      {
+        "title": "תהליך טיסה",
+        "type": "progress",
+        "progressType": "yellow",
+        "percentage": 80
+      }
+    ]
+    }
+]
